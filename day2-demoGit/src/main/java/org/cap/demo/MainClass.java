@@ -12,7 +12,7 @@ public class MainClass {
 	
 	public static void greetings(){
 		System.out.println("Hello! Good Morning!");
-		System.out.println("Hello! Good Morning2!");
+		System.out.println("Hello! Good Morning2dfsd!");
 	}
 
 }
